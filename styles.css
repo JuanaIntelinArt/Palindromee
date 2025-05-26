@@ -59,13 +59,11 @@ h1 {
     min-height: 24px;
 }
 
-/* Resultado cuando es palíndromo */
 .palindrome {
     color: #27ae60;
     background-color: #e8f8f0;
 }
 
-/* Resultado cuando no es palíndromo */
 .not-palindrome {
     color: #e74c3c;
     background-color: #fdedec;
