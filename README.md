@@ -1,7 +1,3 @@
-¡Claro que sí\! Con los códigos que me has proporcionado, puedes crear un repositorio en GitHub para tu proyecto llamado "Palindrome Checker". Aquí te explico cómo hacerlo y te doy una estructura de `README.md` que puedes usar para describir tu proyecto.
-
------
-
 ### **1. Estructura de archivos y carpetas**
 
 Primero, organiza tus archivos en una estructura lógica. Crea una carpeta principal para tu proyecto y, dentro de ella, coloca tus archivos HTML, CSS y JavaScript.
@@ -68,5 +64,3 @@ Simplemente, escribe una palabra o frase en el campo de texto y haz clic en el b
       * `git commit -m "Initial commit of the Palindrome Checker project"` (crea el primer "commit" o versión)
       * `git remote add origin <URL-de-tu-repositorio>` (conecta tu repositorio local con el de GitHub)
       * `git push -u origin main` (sube los archivos a GitHub)
-
-Con estos pasos, tendrás un repositorio profesional en GitHub con un `README.md` claro que explica tu proyecto a cualquiera que lo visite. ¡Mucha suerte\! ✨
